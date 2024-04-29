@@ -59,5 +59,7 @@ Example Request Body:
     }
     ```
 Sample request body images:
-  ![1.png](PostMan Result/1.png)
-  ![2.png](PostMan Result/2.png)
+![Screenshot 2024-04-29 201054](https://github.com/Amrit02102004/Munsow_Task2/assets/114827768/5b5c6e24-0bd7-42c0-a8fe-4c1ddc45f285)
+![Screenshot 2024-04-29 201045](https://github.com/Amrit02102004/Munsow_Task2/assets/114827768/b8f26a49-2fae-4fb8-b355-8f1f2fe332bb)
+
+
