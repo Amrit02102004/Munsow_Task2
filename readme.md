@@ -58,4 +58,6 @@ Example Request Body:
       "error": "Failed to save filtered questions to 'filtered_questions.json'"
     }
     ```
-
+Sample request body images:
+  ![1.png](PostMan Result/1.png)
+  ![2.png](PostMan Result/2.png)
