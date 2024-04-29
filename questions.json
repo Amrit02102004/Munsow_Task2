@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is object-oriented programming?",
+      "answer": "Object-oriented programming (OOP) is a programming paradigm based on the concept of 'objects', which can contain data, in the form of fields (often known as attributes), and code, in the form of procedures (often known as methods).",
+      "difficulty_level": "Medium",
+      "tags": ["Programming", "OOP", "Concepts"]
+    },
+    {
+      "question": "What is the difference between list and tuple in Python?",
+      "answer": "The main difference between lists and tuples is that lists are mutable (can be changed), whereas tuples are immutable (cannot be changed).",
+      "difficulty_level": "Easy",
+      "tags": ["Python", "Lists", "Tuples"]
+    },
+    {
+      "question": "Explain the difference between SQL and NoSQL databases.",
+      "answer": "SQL databases are relational databases that use structured query language (SQL) for defining and manipulating data. NoSQL databases are non-relational databases that provide flexible data models and are designed to handle large volumes of data.",
+      "difficulty_level": "Hard",
+      "tags": ["Databases", "SQL", "NoSQL"]
+    },
+    {
+      "question": "What is RESTful API?",
+      "answer": "RESTful API (Representational State Transfer) is an architectural style for designing networked applications. It relies on a stateless, client-server communication protocol, typically HTTP, and uses standard operations (GET, POST, PUT, DELETE) to manipulate resources.",
+      "difficulty_level": "Medium",
+      "tags": ["APIs", "REST", "Web Development"]
+    }
+  ]
+  
